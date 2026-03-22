@@ -1,1 +1,7 @@
-# Making-a-Chatbot-
+# AI Chatbot
+
+## Description
+Basic rule-based chatbot.
+
+## Run
+python chatbot.py
